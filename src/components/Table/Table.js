@@ -4,7 +4,7 @@
  * @Author: shentong
  * @Date: 2020-02-28 18:12:34
  * @LastEditors: shentong
- * @LastEditTime: 2020-03-03 15:11:04
+ * @LastEditTime: 2020-03-05 19:13:35
  */
 import React from 'react'
 
@@ -14,6 +14,7 @@ const Theader = () => {
       <tr>
         <th>Name</th>
         <th>Job</th>
+        <th>Remove</th>
       </tr>
     </thead>
   )
